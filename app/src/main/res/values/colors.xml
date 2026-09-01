@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_start">#120629</color>
+    <color name="bg_center">#211052</color>
+    <color name="bg_end">#061E42</color>
+    <color name="card_top">#382365</color>
+    <color name="card_bottom">#171B46</color>
+    <color name="input_fill">#111532</color>
+    <color name="stroke_soft">#765ED0</color>
+    <color name="text_main">#FAF8FF</color>
+    <color name="text_muted">#BDB3DA</color>
+    <color name="accent1">#A65CFF</color>
+    <color name="accent2">#318BFF</color>
+    <color name="accent_pink">#FF4EB8</color>
+    <color name="accent_cyan">#2ADFFF</color>
+    <color name="accent_green">#42E7B0</color>
+    <color name="accent_yellow">#FFD05A</color>
+    <color name="accent_red">#FF668E</color>
+    <color name="chat_bubble">#315FD2</color>
+    <color name="divider">#392D69</color>
+    <color name="white">#FFFFFF</color>
+</resources>
